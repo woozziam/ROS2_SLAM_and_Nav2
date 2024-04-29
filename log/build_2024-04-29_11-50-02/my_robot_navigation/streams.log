@@ -1,0 +1,39 @@
+[0.011s] Invoking command in '/home/wook/my_mobile/build/my_robot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --build /home/wook/my_mobile/build/my_robot_navigation -- -j8 -l8
+[0.027s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.117s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.121s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.167s] -- Added test 'lint_cmake' to check CMake code style
+[0.168s] -- Added test 'xmllint' to check XML markup files
+[0.168s] -- Configuring done
+[0.170s] -- Generating done
+[0.170s] -- Build files have been written to: /home/wook/my_mobile/build/my_robot_navigation
+[0.185s] Invoked command in '/home/wook/my_mobile/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --build /home/wook/my_mobile/build/my_robot_navigation -- -j8 -l8
+[0.203s] Invoking command in '/home/wook/my_mobile/build/my_robot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --install /home/wook/my_mobile/build/my_robot_navigation
+[0.209s] -- Install configuration: ""
+[0.209s] -- Execute custom install script
+[0.209s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/launch/bringup_launch.xml
+[0.217s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/launch/localization_launch.xml
+[0.224s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/launch/map_building.launch.xml
+[0.224s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/launch/nav2_view.launch.xml
+[0.231s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/launch/navigation_launch.xml
+[0.237s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/config/mapper_params.yaml
+[0.237s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/config/nav2_params.yaml
+[0.244s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/maps/test_map.pgm
+[0.251s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/maps/test_map.yaml
+[0.258s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/rviz/nav2_view.rviz
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/ament_index/resource_index/package_run_dependencies/my_robot_navigation
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/ament_index/resource_index/parent_prefix_path/my_robot_navigation
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/environment/ament_prefix_path.sh
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/environment/ament_prefix_path.dsv
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/environment/path.sh
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/environment/path.dsv
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/local_setup.bash
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/local_setup.sh
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/local_setup.zsh
+[0.264s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/local_setup.dsv
+[0.264s] -- Symlinking: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/package.dsv
+[0.270s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/ament_index/resource_index/packages/my_robot_navigation
+[0.271s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/cmake/my_robot_navigationConfig.cmake
+[0.271s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/cmake/my_robot_navigationConfig-version.cmake
+[0.271s] -- Up-to-date symlink: /home/wook/my_mobile/install/my_robot_navigation/share/my_robot_navigation/package.xml
+[0.272s] Invoked command in '/home/wook/my_mobile/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --install /home/wook/my_mobile/build/my_robot_navigation

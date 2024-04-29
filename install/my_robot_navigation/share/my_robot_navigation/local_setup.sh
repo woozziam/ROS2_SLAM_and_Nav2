@@ -1,0 +1,1 @@
+/home/wook/my_mobile/build/my_robot_navigation/ament_cmake_environment_hooks/local_setup.sh

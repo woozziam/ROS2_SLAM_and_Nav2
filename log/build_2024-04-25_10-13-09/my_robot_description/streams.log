@@ -1,0 +1,59 @@
+[0.008s] Invoking command in '/home/wook/my_mobile/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake /home/wook/my_mobile/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wook/my_mobile/install/my_robot_description
+[0.045s] -- The C compiler identification is GNU 11.4.0
+[0.091s] -- The CXX compiler identification is GNU 11.4.0
+[0.095s] -- Detecting C compiler ABI info
+[0.145s] -- Detecting C compiler ABI info - done
+[0.152s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.152s] -- Detecting C compile features
+[0.152s] -- Detecting C compile features - done
+[0.155s] -- Detecting CXX compiler ABI info
+[0.214s] -- Detecting CXX compiler ABI info - done
+[0.220s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.220s] -- Detecting CXX compile features
+[0.220s] -- Detecting CXX compile features - done
+[0.223s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.452s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.491s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.517s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.572s] -- Added test 'lint_cmake' to check CMake code style
+[0.573s] -- Added test 'xmllint' to check XML markup files
+[0.574s] -- Configuring done
+[0.576s] -- Generating done
+[0.576s] -- Build files have been written to: /home/wook/my_mobile/build/my_robot_description
+[0.579s] Invoked command in '/home/wook/my_mobile/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake /home/wook/my_mobile/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/wook/my_mobile/install/my_robot_description
+[0.580s] Invoking command in '/home/wook/my_mobile/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --build /home/wook/my_mobile/build/my_robot_description -- -j8 -l8
+[0.610s] Invoked command in '/home/wook/my_mobile/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --build /home/wook/my_mobile/build/my_robot_description -- -j8 -l8
+[0.648s] Invoking command in '/home/wook/my_mobile/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --install /home/wook/my_mobile/build/my_robot_description
+[0.655s] -- Install configuration: ""
+[0.656s] -- Execute custom install script
+[0.657s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/urdf/robot_core.xacro
+[0.666s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
+[0.672s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/base_link.stl
+[0.679s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/front_camera.stl
+[0.684s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/ul_sensor.stl
+[0.691s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/wheel.stl
+[0.697s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/ydlidar_x2_assy.stl
+[0.703s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/base_link.dae
+[0.710s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.dae
+[0.717s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.png
+[0.723s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/ul_sensor.dae
+[0.731s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.dae
+[0.739s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.png
+[0.745s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2.png
+[0.751s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2_assy.dae
+[0.757s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.763s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.770s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.776s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.783s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.789s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.796s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.803s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.809s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.815s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.821s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/package.dsv
+[0.827s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.834s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.840s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.847s] -- Symlinking: /home/wook/my_mobile/install/my_robot_description/share/my_robot_description/package.xml
+[0.855s] Invoked command in '/home/wook/my_mobile/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --install /home/wook/my_mobile/build/my_robot_description
